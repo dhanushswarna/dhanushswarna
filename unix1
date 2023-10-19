@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/dhanushswarna/dhanushswarna.git
+git add -A
+git commit -m "first commit"
+git checkout -b main
+git checkout main
+git push origin main
